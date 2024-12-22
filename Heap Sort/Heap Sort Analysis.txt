@@ -1,0 +1,6 @@
+The Heap-Sort algorithm has a time complexity of:
+
+Building the heap: O(n)
+Sorting the array: O(n log n)
+The overall time complexity is O(n log n).
+
